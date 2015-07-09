@@ -1,2 +1,3 @@
 # datasciencecoursera
-Meu repositorio Git para coursera
+Meu repositorio Git para coursera.  
+I did it!!
